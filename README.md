@@ -1,1 +1,1 @@
-# Git
+# AI-Collaboration-Habits

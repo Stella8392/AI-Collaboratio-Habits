@@ -1,0 +1,2 @@
+name: risk-review
+description: Use when checking documents, prompts, SQL, repositories, or messages for sensitive information, factual risk, permission risk, or public-sharing risk.

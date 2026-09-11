@@ -1,0 +1,40 @@
+{
+  "name": "AI Collaboration Habits / 个人 AI 协作习惯迁移包",
+  "generated_at": "2026-09-11T16:41:09",
+  "safety": "public-safe sanitized template pack; no secrets or internal source documents intended",
+  "main_entry": "README.md",
+  "import_guide": "IMPORT-GUIDE.md",
+  "prompts": [
+    "prompts/system-prompt.md",
+    "prompts/memory-prompt.md",
+    "prompts/first-calibration-prompt.md"
+  ],
+  "skills": [
+    "business-analysis",
+    "data-analysis-report",
+    "knowledge-base-organizer",
+    "long-doc-rewriter",
+    "model-migration",
+    "ppt-report-builder",
+    "prompt-optimizer",
+    "rag-qa-optimizer",
+    "risk-review",
+    "sql-metric-doc"
+  ],
+  "templates": [
+    "data-analysis-report.md",
+    "long-doc-rewriter.md",
+    "meeting-minutes.md",
+    "ppt-report-builder.md",
+    "prompt-optimizer.md",
+    "rag-qa-optimizer.md",
+    "risk-review.md",
+    "sql-metric-doc.md"
+  ],
+  "checklists": [
+    "facts-boundary-checklist.md",
+    "github-public-safety-checklist.md",
+    "sensitive-info-checklist.md",
+    "task-closing-checklist.md"
+  ]
+}
